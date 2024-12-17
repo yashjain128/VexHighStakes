@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "difftest",
+		"slot": 4,
+		"description": "",
+		"platform": "V5",
+		"creationDate": "Fri, 29 Nov 2024 19:27:32 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.6.1",
+		"json": 1
+	}
+}
